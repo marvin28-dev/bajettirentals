@@ -524,6 +524,16 @@ section {
   position: relative;
   z-index: 2;
 }
+.section-title h3 {
+  font-size: 32px;
+  font-weight: 700;
+  
+  margin-bottom: 20px;
+  padding-bottom: 0;
+  color: #191919;
+  position: relative;
+  z-index: 2;
+}
 
 .section-title span {
   position: absolute;
